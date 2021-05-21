@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <root>
+        <level value="INFO" />
+        <appender-ref ref="rollingFile" />
+        <appender-ref ref="file" />
+    </root>
+</Configuration>
